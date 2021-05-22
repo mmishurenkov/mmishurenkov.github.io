@@ -1,2 +1,3 @@
 # mmishurenkov.github.io
-GrowthDept
+Архитектурый веб – портал GrowthDept. || Architectural web portal GrowthDept.
+
